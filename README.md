@@ -24,7 +24,7 @@
 ![](http://tu.yaohuo.me/imgs/2020/06/ed0e944eec323a16.png)
 
 # Github Actions说明
-## 一、Fork此仓库
+## 一、Fork此仓库 
 ![](http://tu.yaohuo.me/imgs/2020/06/f059fe73afb4ef5f.png)
 ## 二、设置账号密码
 
@@ -50,5 +50,5 @@ Actions > Cloud189Checkin > build
 
 
 
-此后，将会在每天半夜12点多会自动签到一次  
+此后，将会在每天半夜12点多会自动签到一次。  
 若有需求，可以在[.github/workflows/python-publish.yml]中自行修改  
